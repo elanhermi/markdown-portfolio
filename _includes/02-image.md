@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![My patronus][https://www.demotivateur.fr/images-buzz/190036/000_rk5b0_5fb2b3adc1375.jpg]
